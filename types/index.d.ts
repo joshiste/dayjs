@@ -1,4 +1,4 @@
-export = dayjs;
+export default dayjs;
 declare function dayjs (date?: dayjs.ConfigType, option?: dayjs.OptionType, locale?: string): dayjs.Dayjs
 
 declare namespace dayjs {
